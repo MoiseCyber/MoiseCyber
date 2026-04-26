@@ -18,13 +18,12 @@
 ---
 
 ### 📂 Featured Projects
-
 | Project | Description |
 |--------|-------------|
 | [🔍 Nmap Network Scanning Lab](https://github.com/MoiseCyber/nmap-network-scanning-lab) | Host discovery, port scanning, service enumeration and OS fingerprinting |
 | [☁️ Cloud Risk Assessment – Azure](https://github.com/MoiseCyber/Cloud-risk-assessment-azure) | GRC simulation with risk register, NSG analysis, and control mapping |
 | [📋 Linux Log Analysis & SIEM](https://github.com/MoiseCyber/-Linux-Log-File-Analysis-Automation-and-SIEM-Visualization) | SSH log investigation, automation, and SIEM-style event visualization |
-
+| [🖥️ Cloud-Based Active Directory Setup & User Management](https://github.com/MoiseCyber/Cloud-Based-Active-Directory-Setup-User-Management) | Azure AD lab with domain controller setup, user provisioning, domain join, and security event monitoring |
 ---
 
 ### 📫 Reach me
